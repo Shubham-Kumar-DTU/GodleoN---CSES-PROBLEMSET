@@ -5,14 +5,14 @@ Access for the site is :
 https://cses.fi/problemset/list/
 
 Solutions are for each of the problems for the mentioned categories:
-Introductory problems
-Sorting and Searching
-Dynamic Programming
-Graph Algorithms
-Range Queries
-Tree Algorithms
-Mathematics
-String Algorithms
-Additional Problems
+Introductory problems <br/>
+Sorting and Searching <br/>
+Dynamic Programming <br/>
+Graph Algorithms <br/>
+Range Queries <br/>
+Tree Algorithms <br/>
+Mathematics <br/>
+String Algorithms <br/> 
+Additional Problems <br/>
 
 
