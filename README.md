@@ -4,7 +4,7 @@ CSES PROBLEMSET SOLUTIONS
 Access for the site is : 
 https://cses.fi/problemset/list/
 
-Solutions are for each of the problems for the mentioned categories:
+Solutions are for each of the problems for the mentioned categories:<br/>
 Introductory problems <br/>
 Sorting and Searching <br/>
 Dynamic Programming <br/>
